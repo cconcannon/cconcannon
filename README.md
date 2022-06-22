@@ -1,5 +1,5 @@
 # Chris Concannon
 
-- Sr. Solutions Engineer @ Okta
+- Senior Customer Engineer @ Sourcegraph
 - AWS Certified DevOps Engineer Professional
 - [LinkedIn](https://linkedin.com/in/csconcannon)
